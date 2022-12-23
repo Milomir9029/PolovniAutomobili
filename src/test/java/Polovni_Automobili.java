@@ -72,16 +72,11 @@ public class Polovni_Automobili {
         Actions actions = new Actions(driver);
         actions.moveToElement(dropdowntrigger).perform();
 
-        WebElement element = driver.findElement(By.xpath("//i[contains(@class, 'position-absolute') and contains(@class, 'uk-icon-caret-down')]"));
-        element.click();
-        new WebDriverWait(driver, Duration.ofSeconds(10))
-                .until(ExpectedConditions.elementToBeClickable(element)).click();
+       // WebElement element = driver.findElement(By.xpath("//i[contains(@class, 'position-absolute') and contains(@class, 'uk-icon-caret-down')]"));
+        //element.click();
 
-       // ((JavascriptExecutor)driver).executeScript("arguments[0].removeAttribute('aria-hidden')", element);
-        //WebElement drop = driver.findElement(By.xpath("//div[contains(@class, 'top-menu-profile') and contains(@class, 'position-relative')]"));
-        //drop.click();
         new WebDriverWait(driver, Duration.ofSeconds(10))
-                .until(ExpectedConditions.elementToBeClickable(By.cssSelector("[title='Odjavite se iz sistema']"))).click();
+                .until(ExpectedConditions.elementToBeClickable(By.cssSelector(".js-logout-link"))).click();
     }
     String rndGenerator(){
         Random rnd = new Random();

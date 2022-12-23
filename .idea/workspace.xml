@@ -46,8 +46,41 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.Polovni_Automobili">
+  <component name="RunManager" selected="TestNG.Polovni_Automobili (4)">
     <configuration name="Polovni_Automobili (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="zadatak1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Polovni_Automobili" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Polovni_Automobili (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="zadatak1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Polovni_Automobili" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Polovni_Automobili (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="zadatak1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Polovni_Automobili" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Polovni_Automobili (4)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="zadatak1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Polovni_Automobili" />
@@ -69,49 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Polovni_Automobili.protonLogin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="zadatak1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Polovni_Automobili" />
-      <option name="METHOD_NAME" value="protonLogin" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Polovni_Automobili.test123" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="zadatak1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Polovni_Automobili" />
-      <option name="METHOD_NAME" value="test123" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Polovni_Automobili.uiTest2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="zadatak1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Polovni_Automobili" />
-      <option name="METHOD_NAME" value="uiTest2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Polovni_Automobili (4)" />
         <item itemvalue="TestNG.Polovni_Automobili" />
+        <item itemvalue="TestNG.Polovni_Automobili (3)" />
+        <item itemvalue="TestNG.Polovni_Automobili (2)" />
         <item itemvalue="TestNG.Polovni_Automobili (1)" />
-        <item itemvalue="TestNG.Polovni_Automobili.uiTest2" />
-        <item itemvalue="TestNG.Polovni_Automobili.protonLogin" />
-        <item itemvalue="TestNG.Polovni_Automobili.test123" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671810676414</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first">
+      <created>1671813715836</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671813715836</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
