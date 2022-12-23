@@ -72,8 +72,12 @@ public class Polovni_Automobili {
         Actions actions = new Actions(driver);
         actions.moveToElement(dropdowntrigger).perform();
 
-        WebElement element = driver.findElement(By.xpath("//div[contains(@class, 'uk-dropdown') and contains(@class, 'uk-dropdown-bottom')]"));
-        ((JavascriptExecutor)driver).executeScript("arguments[0].removeAttribute('aria-hidden')", element);
+        WebElement element = driver.findElement(By.xpath("//i[contains(@class, 'position-absolute') and contains(@class, 'uk-icon-caret-down')]"));
+        element.click();
+        new WebDriverWait(driver, Duration.ofSeconds(10))
+                .until(ExpectedConditions.elementToBeClickable(element)).click();
+
+       // ((JavascriptExecutor)driver).executeScript("arguments[0].removeAttribute('aria-hidden')", element);
         //WebElement drop = driver.findElement(By.xpath("//div[contains(@class, 'top-menu-profile') and contains(@class, 'position-relative')]"));
         //drop.click();
         new WebDriverWait(driver, Duration.ofSeconds(10))

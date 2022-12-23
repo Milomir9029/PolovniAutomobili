@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="887c2c25-6104-426b-8d55-0c5a92dec132" name="Changes" comment="first" />
+    <list default="true" id="887c2c25-6104-426b-8d55-0c5a92dec132" name="Changes" comment="first">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Polovni_Automobili.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Polovni_Automobili.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +47,17 @@
   }
 }</component>
   <component name="RunManager" selected="TestNG.Polovni_Automobili">
+    <configuration name="Polovni_Automobili (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="zadatak1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Polovni_Automobili" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Polovni_Automobili" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="zadatak1" />
       <option name="PACKAGE_NAME" value="" />
@@ -91,24 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadatak2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="zadatak1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="zadatak2" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.Polovni_Automobili" />
+        <item itemvalue="TestNG.Polovni_Automobili (1)" />
         <item itemvalue="TestNG.Polovni_Automobili.uiTest2" />
         <item itemvalue="TestNG.Polovni_Automobili.protonLogin" />
         <item itemvalue="TestNG.Polovni_Automobili.test123" />
-        <item itemvalue="TestNG.zadatak2" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671810510790</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first">
+      <created>1671810676414</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671810676414</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
