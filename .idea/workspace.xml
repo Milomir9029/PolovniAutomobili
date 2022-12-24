@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="887c2c25-6104-426b-8d55-0c5a92dec132" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/src/test/java/PolovniAutomobiliTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Polovni_Automobili.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Polovni_Automobili.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Polovni_Automobili.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2JEGmeVRWkpuggNNACf13kiDdeU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,11 +50,11 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.Polovni_Automobili (4)">
-    <configuration name="Polovni_Automobili (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="zadatak1" />
+  <component name="RunManager" selected="TestNG.PolovniAutomobiliTests">
+    <configuration name="PolovniAutomobiliTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QAPraksa" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Polovni_Automobili" />
+      <option name="MAIN_CLASS_NAME" value="PolovniAutomobiliTests" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -104,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PolovniAutomobiliTests" />
         <item itemvalue="TestNG.Polovni_Automobili (4)" />
         <item itemvalue="TestNG.Polovni_Automobili" />
         <item itemvalue="TestNG.Polovni_Automobili (3)" />
         <item itemvalue="TestNG.Polovni_Automobili (2)" />
-        <item itemvalue="TestNG.Polovni_Automobili (1)" />
       </list>
     </recent_temporary>
   </component>
